@@ -1,0 +1,14 @@
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\bin\Debug\net8.0\Programozasi_tetelek.exe
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\bin\Debug\net8.0\Programozasi_tetelek.deps.json
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\bin\Debug\net8.0\Programozasi_tetelek.runtimeconfig.json
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\bin\Debug\net8.0\Programozasi_tetelek.dll
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\bin\Debug\net8.0\Programozasi_tetelek.pdb
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\obj\Debug\net8.0\Programozasi_tetelek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\obj\Debug\net8.0\Programozasi_tetelek.AssemblyInfoInputs.cache
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\obj\Debug\net8.0\Programozasi_tetelek.AssemblyInfo.cs
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\obj\Debug\net8.0\Programozasi_tetelek.csproj.CoreCompileInputs.cache
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\obj\Debug\net8.0\Programozasi_tetelek.dll
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\obj\Debug\net8.0\refint\Programozasi_tetelek.dll
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\obj\Debug\net8.0\Programozasi_tetelek.pdb
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\obj\Debug\net8.0\Programozasi_tetelek.genruntimeconfig.cache
+D:\Fejja_Marcell_12B\C#\Programozasi_tetelek\Programozasi_tetelek\Programozasi_tetelek\obj\Debug\net8.0\ref\Programozasi_tetelek.dll
